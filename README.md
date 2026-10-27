@@ -8,6 +8,8 @@ hemovigilance, by Warodom Phaenthong, M.D. It is one self-contained HTML page (`
 It is decision support for healthcare professionals, not a substitute for the source guidelines, your hospital's
 protocols, product labels or clinical judgement.
 
+**Open it:** https://sirmarkthemighty-ctrl.github.io/Blood_Product_Guide/
+
 ## What it contains
 
 - 16 blood products and derivatives (whole blood, PRBC, platelets, plasma, cryoprecipitate and freeze-dried cryo,
